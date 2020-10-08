@@ -1,0 +1,103 @@
+body {
+    margin: 0px;
+    background-color: #8AD;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.section {
+    margin-bottom: 200px;
+}
+
+.title {
+    font-size: 4.5rem;
+    font-weight: bold;
+    font-family: 'Caveat', cursive;
+    display: block;
+}
+#attribute {
+    position: absolute;
+    left: 310px;
+    top: 150px;
+}
+
+p {
+    color: black;
+    font-weight: bold;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+a {
+    color: #e11d74;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+.intro {
+    text-align: left;
+}
+
+.foto-profil {
+    float: right;
+    border-radius: 200%;
+    margin-left: 30px;
+}
+
+.wrapper {
+    width: 720px;
+    padding-top: 225px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #e11d74;
+    padding-top: 50px;
+   }
+
+.tombol {
+    background-color: #e11d74;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.skill-row {
+    text-align: left;
+    margin-bottom: 100px;
+}
+.ui-img {
+    float: left;
+    margin-right: 30px;
+}
+
+.front-end {
+    float: right;
+    margin-left: 30px;
+}
+
+.social-links {
+    margin: 0px 12px 20px;
+    color:  #e11d74;
+    font-weight: bold;
+}
+
+.teks-aksi {
+    width: 70%;
+    margin: 0 auto;
+}
+.footer {
+    background-color: #eeeeee;
+    padding: 30px 0 20px;
+}
+
+.footer-text {
+    font-size: 14px;
+    margin-top: 30px;
+}
